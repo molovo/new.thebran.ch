@@ -1,0 +1,39 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 2835467, 2014-06-26T10:06:00-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: Gauthier FY Bold by Fontyou
+ * URL: http://www.myfonts.com/fonts/fontyou/gauthier-fy/bold/
+ *
+ * Webfont: Gauthier FY by Fontyou
+ * URL: http://www.myfonts.com/fonts/fontyou/gauthier-fy/regular/
+ *
+ * Webfont: Gauthier FY Italic by Fontyou
+ * URL: http://www.myfonts.com/fonts/fontyou/gauthier-fy/italic/
+ *
+ *
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2835467
+ * Licensed pageviews: 20,000
+ * Webfonts copyright: Copyright (c) 2013 by FONTYOU. All rights reserved. www.fontyou.com
+ *
+ * © 2014 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/2b47ff");
+
+
+@font-face {font-family: 'GauthierFY';font-weight: bold;font-style: normal;src: url('webfonts/2B47FF_0_0.eot');src: url('webfonts/2B47FF_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B47FF_0_0.woff') format('woff'),url('webfonts/2B47FF_0_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'GauthierFY';font-weight: normal;font-style: normal;src: url('webfonts/2B47FF_1_0.eot');src: url('webfonts/2B47FF_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B47FF_1_0.woff') format('woff'),url('webfonts/2B47FF_1_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'GauthierFY';font-weight: normal;font-style: italic;src: url('webfonts/2B47FF_2_0.eot');src: url('webfonts/2B47FF_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/2B47FF_2_0.woff') format('woff'),url('webfonts/2B47FF_2_0.ttf') format('truetype');}

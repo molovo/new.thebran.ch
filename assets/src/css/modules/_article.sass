@@ -1,0 +1,49 @@
+.feature
+  height: 18em
+  background: url('') center / cover fixed no-repeat
+  display: none
+
+.intro
+  padding: #{$baseline * 7} 0 #{$baseline * 4}
+
+  h1
+    @media (min-width: $bp_large)
+      font-size: #{$baseline * 3}
+      margin-bottom: .6666666666667em
+
+    @media (max-width: $bp_medium)
+      br
+        display: none
+
+  h4
+    font:
+      family: $primary
+      weight: 300
+      style:  italic
+    text-align: center
+
+
+main
+  padding: $baseline
+
+  .container
+    +split(1,2.618,$bp_large)
+
+    aside
+      @media (min-width: $bp_large)
+        padding-right: $baseline
+
+      p
+        border-top: .25em solid $blue
+        color: $blue
+        padding-top: $baseline
+        margin-top: -.25em
+
+    article
+      @media (min-width: $bp_large)
+        padding-left: $baseline
+
+      img
+        $ratio: 2.618
+        width: calc(100% + #{100% / $ratio} + 2em)
+        margin-left: calc(#{100% / -$ratio} - 2em)

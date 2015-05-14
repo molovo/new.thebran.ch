@@ -1,0 +1,18 @@
+# Site settings
+email: your-email@domain.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://new.thebran.ch" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+name: Molovo
+markdown: rdiscount
+rdiscount:
+  extensions: [smart, footnotes]
+permalink: /articles/:title
+exclude: ['.gitignore', 'thebranch.sublime-project', 'thebranch.sublime-workspace', '.sass_cache', 'node_modules', 'gulpfile.js', 'src', 'package.json', '.git', '.gitignore', 'temp']
+include: ['.htaccess']
+encoding: utf-8
+destination: 'public_html'
+description: 'A description goes here'

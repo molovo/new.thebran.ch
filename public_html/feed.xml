@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>A description goes here</description>
+    <link>http://new.thebran.ch/</link>
+    <atom:link href="http://new.thebran.ch/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 14 May 2015 21:55:08 +0100</pubDate>
+    <lastBuildDate>Thu, 14 May 2015 21:55:08 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>The Hills Are Alive With the Sound of Dalston</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 May 2015 00:00:00 +0100</pubDate>
+        <link>http://new.thebran.ch/articles/the-hills-are-alive-with-the-sound-of-dalston</link>
+        <guid isPermaLink="true">http://new.thebran.ch/articles/the-hills-are-alive-with-the-sound-of-dalston</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Rebirth - A Note From the Editor</title>
+        <description>&lt;p&gt;I started The Branch in 2012 with lofty ambitions. In the eighteen months I was actively editing the site I learnt a great deal, met some incredible people, and got to read and publish some really great articles.&lt;/p&gt;
+
+&lt;p&gt;Despite this, the project never got the love and attention form me that it truly deserved, and as such fell to the wayside as my client workload increased. The site has since sat stagnant for two years, waiting for me to do something with it.&lt;/p&gt;
+
+&lt;p&gt;Now I&amp;rsquo;m no longer taking on client work, the time has come for The Branch to be reborn. My original vision for the site saw it as a place to give a voice to those in the creative community who might otherwise go unheard, and I want to continue to explore and expand on that vision with this new version of the site, with the following manifesto in mind.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;We will continue to focus on creativity, inspiration and what makes creative people &amp;ldquo;tick&amp;rdquo;, however this time we&amp;rsquo;ll be taking a much broader approach &amp;mdash; we want to hear about more than just inspiration.&lt;/li&gt;
+&lt;li&gt;We want to attack real issues which affect us, our community and our creativity, such as mental health, &amp;ldquo;burnout&amp;rdquo;, fluctuating workloads and work/life balance.&lt;/li&gt;
+&lt;li&gt;We want to hear about creative projects and initiatives which truly make a difference to people&amp;rsquo;s lives.&lt;/li&gt;
+&lt;li&gt;We want to foster discussion, and welcome submissions which respond to or expand on other articles on the site.&lt;/li&gt;
+&lt;li&gt;We will never, under any circumstances, deny anyone the opportunity to publish an article on The Branch. Whilst we pride ourselves on our high standards for the quality of our content, we won&amp;rsquo;t turn away an article just because it&amp;rsquo;s poorly written, instead we&amp;rsquo;ll help you get it up to scratch.&lt;/li&gt;
+&lt;li&gt;Likewise, if you want to talk about a difficult subject, and wish to remain anonymous, we can do that for you too.&lt;/li&gt;
+&lt;li&gt;This site and the content within it is a resource built for the community, by the community. The source code for this site will remain open source, and contributions are welcome.&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sun, 10 May 2015 00:00:00 +0100</pubDate>
+        <link>http://new.thebran.ch/articles/rebirth-a-note-from-the-editor</link>
+        <guid isPermaLink="true">http://new.thebran.ch/articles/rebirth-a-note-from-the-editor</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
