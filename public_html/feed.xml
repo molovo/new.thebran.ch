@@ -5,33 +5,9 @@
     <description>A description goes here</description>
     <link>http://new.thebran.ch/</link>
     <atom:link href="http://new.thebran.ch/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 May 2015 21:55:08 +0100</pubDate>
-    <lastBuildDate>Thu, 14 May 2015 21:55:08 +0100</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2015 01:00:05 +0100</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2015 01:00:05 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
-    
-      <item>
-        <title>The Hills Are Alive With the Sound of Dalston</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 10 May 2015 00:00:00 +0100</pubDate>
-        <link>http://new.thebran.ch/articles/the-hills-are-alive-with-the-sound-of-dalston</link>
-        <guid isPermaLink="true">http://new.thebran.ch/articles/the-hills-are-alive-with-the-sound-of-dalston</guid>
-        
-        
-      </item>
     
       <item>
         <title>Rebirth - A Note From the Editor</title>
@@ -39,16 +15,16 @@
 
 &lt;p&gt;Despite this, the project never got the love and attention form me that it truly deserved, and as such fell to the wayside as my client workload increased. The site has since sat stagnant for two years, waiting for me to do something with it.&lt;/p&gt;
 
-&lt;p&gt;Now I&amp;rsquo;m no longer taking on client work, the time has come for The Branch to be reborn. My original vision for the site saw it as a place to give a voice to those in the creative community who might otherwise go unheard, and I want to continue to explore and expand on that vision with this new version of the site, with the following manifesto in mind.&lt;/p&gt;
+&lt;p&gt;Now I’m no longer taking on client work, the time has come for The Branch to be reborn. My original vision for the site saw it as a place to give a voice to those in the creative community who might otherwise go unheard, and I want to continue to explore and expand on that vision with this new version of the site, with the following manifesto in mind.&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;We will continue to focus on creativity, inspiration and what makes creative people &amp;ldquo;tick&amp;rdquo;, however this time we&amp;rsquo;ll be taking a much broader approach &amp;mdash; we want to hear about more than just inspiration.&lt;/li&gt;
-&lt;li&gt;We want to attack real issues which affect us, our community and our creativity, such as mental health, &amp;ldquo;burnout&amp;rdquo;, fluctuating workloads and work/life balance.&lt;/li&gt;
-&lt;li&gt;We want to hear about creative projects and initiatives which truly make a difference to people&amp;rsquo;s lives.&lt;/li&gt;
-&lt;li&gt;We want to foster discussion, and welcome submissions which respond to or expand on other articles on the site.&lt;/li&gt;
-&lt;li&gt;We will never, under any circumstances, deny anyone the opportunity to publish an article on The Branch. Whilst we pride ourselves on our high standards for the quality of our content, we won&amp;rsquo;t turn away an article just because it&amp;rsquo;s poorly written, instead we&amp;rsquo;ll help you get it up to scratch.&lt;/li&gt;
-&lt;li&gt;Likewise, if you want to talk about a difficult subject, and wish to remain anonymous, we can do that for you too.&lt;/li&gt;
-&lt;li&gt;This site and the content within it is a resource built for the community, by the community. The source code for this site will remain open source, and contributions are welcome.&lt;/li&gt;
+  &lt;li&gt;We will continue to focus on creativity, inspiration and what makes creative people “tick”, however this time we’ll be taking a much broader approach — we want to hear about more than just inspiration.&lt;/li&gt;
+  &lt;li&gt;We want to attack real issues which affect us, our community and our creativity, such as mental health, “burnout”, fluctuating workloads and work/life balance.&lt;/li&gt;
+  &lt;li&gt;We want to hear about creative projects and initiatives which truly make a difference to people’s lives.&lt;/li&gt;
+  &lt;li&gt;We want to foster discussion, and welcome submissions which respond to or expand on other articles on the site.&lt;/li&gt;
+  &lt;li&gt;We will never, under any circumstances, deny anyone the opportunity to publish an article on The Branch. Whilst we pride ourselves on our high standards for the quality of our content, we won’t turn away an article just because it’s poorly written, instead we’ll help you get it up to scratch.&lt;/li&gt;
+  &lt;li&gt;Likewise, if you want to talk about a difficult subject, and wish to remain anonymous, we can do that for you too.&lt;/li&gt;
+  &lt;li&gt;This site and the content within it is a resource built for the community, by the community. The source code for this site will remain open source, and contributions are welcome.&lt;/li&gt;
 &lt;/ol&gt;
 
 </description>
@@ -56,6 +32,272 @@
         <link>http://new.thebran.ch/articles/rebirth-a-note-from-the-editor</link>
         <guid isPermaLink="true">http://new.thebran.ch/articles/rebirth-a-note-from-the-editor</guid>
         
+        
+      </item>
+    
+      <item>
+        <title>Prometheus</title>
+        <description>&lt;p&gt;Nothing is more fun on a warm summer night than having an outdoor grill or barbecue party with friends and/or loved ones. Just getting the cool drinks out of the fridge, igniting the coal in the device, listening to the bursting sounds coming from it, putting the food atop, enjoying the delicious fragrances filling the air… But did we ever wonder how mankind got to use fire?&lt;/p&gt;
+
+&lt;p&gt;We learn in school about a gentleman named &lt;a href=&quot;http://en.wikipedia.org/wiki/Prometheus&quot;&gt; Prometheus&lt;/a&gt;, who is said to have stolen the fire from the Gods (and been punished for it nastily). Well, in our times, we do not know our Gods personally any more like Prometheus did. However, I have read an interesting theory in a book by the excellent Hungarian journalist and cook &lt;a href=&quot;http://www.libri.hu/en/konyv/vancsa_istvan.vancsa-istvan-szakacskonyve.html&quot;&gt;István Váncsa&lt;/a&gt;, who in turn took it from a work by &lt;a href=&quot;http://www.abebooks.com/servlet/BookDetailsPL?bi=926625224&amp;amp;searchurl=an%3Dblond%2Bgeorge%2Band%2Bgermaine%2Bblond&quot;&gt;Georges &amp;amp; Germaine Blond&lt;/a&gt;. Accordingly, the story of the first fire domestication steps goes like this:&lt;/p&gt;
+
+&lt;p&gt;As we know, all creatures have dreadful fear from fire. If any of them meets, sees or smells some, he flees in panic. However, our hero named Prometheus must have been pretty drunk. But how could have he been loaded, you might ask, in a time with no pubs and supermarkets open to offer an assortment of drinks like Jack Daniel’s or Finlandia, Chablis or Chianti? Even with no access to some Fuller’s or Guiness? The answer is, the thirsty individual can be extraordinarily inventive: in nature he finds different kinds of sweet juices, which with some effort of fermentation can be turned into a refreshing drink with a high alcohol content.&lt;/p&gt;
+
+&lt;p&gt;Now, after our hero has consumed a considerable amount of it, he might have reduced his fear of fire enough to go off towards the burning forest. Somehow he acquires a burning bough, and staggeringly walks it out of the danger zone with a bright grin on his face. Well, of course, previously there might have been dozens or even hundreds of candidates who tried, but ultimately perished in a similar encounter with fire. But this very one just brought it home, presumably ignited his hut if he had one, and survived the subsequent conflagration generated by himself in a shallow lake or creek.&lt;/p&gt;
+
+&lt;p&gt;Just imagine the morning after, when he awoke in his smoky surroundings with a terrible headache, his face full of ash, not having the slightest idea of what has happened…&lt;/p&gt;
+
+&lt;p&gt;So today, if we prepare our grill party in the first instance by opening a few beers or wine bottles, we do this to remember that memorable morning and pay tribute to this great, semi-divine man, who we call Prometheus.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Jun 2013 14:48:42 +0100</pubDate>
+        <link>http://new.thebran.ch/articles/prometheus</link>
+        <guid isPermaLink="true">http://new.thebran.ch/articles/prometheus</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>In Pursuit of Happyness</title>
+        <description>&lt;p&gt;&lt;em&gt;Life is a little like writing a story.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Humans love to read. It’s the reason we created language. And soon after followed the alphabet, paper, books, signs, billboards, newspapers, magazines, screens, computers, smartphones, tablets and Kindles. The focus required to really get into a book or article enables us to block out other distractions, and through this concentration, relax.&lt;/p&gt;
+
+&lt;p&gt;Every form of human entertainment begins or ends its life on paper. That latest film you enjoyed started life as a script or screenplay; maybe even a novel. That music you’re listening to began as a score, or a series of lyrics. Even the headphones you’re listening through started out as a written spec.&lt;/p&gt;
+
+&lt;p&gt;Around a year ago, when I first decided to start blogging, I spent an afternoon chatting with a creative writing lecturer. He told me that editing is the biggest barrier to creative writing. If we spend too much time trying to write the perfect set of words, then the editing required to achieve this stops us from actually writing them. Instead, the best writers unleash a flow of every thought that comes into their head, without pause, distraction or limitation, and then remove those that are unnecessary.&lt;/p&gt;
+
+&lt;p&gt;It is this careless abandon when first drafting a piece of writing that allows the real emotion and personality of a writer to shine through in the text, and it is &lt;em&gt;that&lt;/em&gt; which makes reading it enjoyable, not the words themselves.&lt;/p&gt;
+
+&lt;p&gt;Since that afternoon, I’ve applied the same thinking to my own writing, and it has helped considerably. Whereas I used to give up halfway through writing a post after having lost the basis of the piece in a sea of edits, I am now reasonably proud of the words I am able to record. I mean, I’m no Hemingway, but it’s readable, right?&lt;/p&gt;
+
+&lt;p&gt;The biggest thing I took away from that conversation though, is not related to writing specifically, but to the way we live our lives; The pursuit of Happyness.&lt;/p&gt;
+
+&lt;p&gt;As people, we naturally gravitate towards doing things that make us happy. We make extra effort to see that special person who makes us smile. We listen to our favourite bands. We watch our favourite TV shows. We visit places that hold happy memories.&lt;/p&gt;
+
+&lt;p&gt;What we are doing here is &lt;em&gt;editing&lt;/em&gt; our lives. By concentrating on doing things that we know make us happy, we are ruling out a million things which have the potential to do the same. The problem is, there are times when we can’t always do the things that we &lt;em&gt;know&lt;/em&gt; make us happy. People drift apart, bands break up, TV shows get cancelled, and places close down.&lt;/p&gt;
+
+&lt;p&gt;How many times have you said “I’m bored, I have nothing to do”?&lt;/p&gt;
+
+&lt;p&gt;Get out there and try new things. Try &lt;em&gt;everything&lt;/em&gt;, and filter out the things you don’t enjoy, rather than just sticking to those you do. Say “Yes”.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;p&gt;&lt;img src=&quot;http://images.susu.org/unionfilms/films/backgrounds/hd/yes-man.jpg&quot; alt=&quot;Jim Carrey in Yes Man&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;
+    &lt;p&gt;Jim Carrey in &lt;em&gt;Yes Man&lt;/em&gt;&lt;/p&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I’ve done many new things in the last year. I’ve taken up squash. I skate. Last week I modelled for the first time. When I go out, I go to a different bar each time. I’ve tried Sushi. I’ve left my house at 3 in the morning for a spontaneous visit to a friend. I’ve watched amateur dramatics, seen a freak show and cooked Jamaican food.&lt;/p&gt;
+
+&lt;p&gt;The only barriers between you and what you want to do are self imposed.&lt;/p&gt;
+
+&lt;p&gt;Write your own story.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Jun 2013 11:43:56 +0100</pubDate>
+        <link>http://new.thebran.ch/articles/in-pursuit-of-happyness</link>
+        <guid isPermaLink="true">http://new.thebran.ch/articles/in-pursuit-of-happyness</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>You Know You’re A [————] When?</title>
+        <description>&lt;p&gt;&lt;small&gt;&lt;em&gt;Article originally published on &lt;a href=&quot;https://medium.com/what-i-learned-building/1484dcb6511e&quot;&gt; Medium&lt;/a&gt;.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://amandapalmer.net/&quot;&gt;Amanda Palmer&lt;/a&gt; once tweeted a question that went something like;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You know you’re a writer when….?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“You know you’re a writer when your words change how someone feels. Doesn’t matter if it’s a tweet, a book, a blog post or a song.” I replied.&lt;/p&gt;
+
+&lt;p&gt;But here’s the thing. The changing how people feel part is how you succeed at anything—and also how you know when you have.&lt;/p&gt;
+
+&lt;p&gt;You know you’ve nailed that code when it changes how people feel about the experience they have on the website you built.&lt;/p&gt;
+
+&lt;p&gt;You know you’ve created a great brand, app, recipe, or script when people are changed so much by what you’ve done that they can’t help sharing it with their friends.&lt;/p&gt;
+
+&lt;p&gt;You know you’re a Dad when making your six-week-old baby smile matters more than anything at that moment.&lt;/p&gt;
+
+&lt;p&gt;Being whatever you want to be really is as simple as changing how a single person feels in the moment. And funnily enough that scales, making you a better [whatever you want to be].&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Jun 2013 11:36:12 +0100</pubDate>
+        <link>http://new.thebran.ch/articles/you-know-youre-a-when</link>
+        <guid isPermaLink="true">http://new.thebran.ch/articles/you-know-youre-a-when</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Get Your Skates On</title>
+        <description>&lt;p&gt;Skating, it’s the way forward&lt;/p&gt;
+
+&lt;p&gt;I was asked today to write something about what inspires me, I’ve sat here for a while pondering that statement and the truth is, it depends what mood I’m in. As a female/creative, I’m prone to feeling one thing at 10am but something completely different at 10.01am, so I usually go on what I’m feeling at the time and let my creativity do the rest.&lt;/p&gt;
+
+&lt;p&gt;I could harp on about who inspires me and what I do to get my creativity, then I remembered my true passion. Skating. Yes, skating; not inlining, not ice skating but quad skating. I learnt to skate on a pair of plastic roller boots at the age of 11, the wheels were so unforgiving that every stone you came across would render you floor bound but I didn’t let that stop me.&lt;/p&gt;
+
+&lt;p&gt;I skate twice a week at the Pavillion here in Bath and always, without fail, feel so much more alive after I’ve been. It clears my head, helps put things into perspective and I’d highly recommend it to anyone suffering with creative block, stress or even depression.&lt;/p&gt;
+
+&lt;p&gt;A big part of the reason why skating works is obviously because it’s a form of exercise, but also when you’re good at something and you feel confident doing that thing, it boosts your confidence and frees up space in your head for interesting and creative things, the sense of freedom I get as I’m gliding along with the wind in my fringe, whizzing past all of the slow people, also plays a big part too.&lt;/p&gt;
+
+&lt;p&gt;Now….buy some skates and get free.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 May 2013 21:24:28 +0100</pubDate>
+        <link>http://new.thebran.ch/articles/get-your-skates-on</link>
+        <guid isPermaLink="true">http://new.thebran.ch/articles/get-your-skates-on</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>The Hills Are Alive With the Sound of Dalston</title>
+        <description>&lt;p&gt;&lt;em&gt;Awkward thought of a black girl dressed as Fraulein Maria spinning in circles in the middle of a busy market.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s strange to think that a simple market place in East London is inspiring to anyone, but it’s where i’ve grown up and It’s home to me. No matter where in England I go, I always find myself back in Dalston Market taking in the colourful atmosphere, and the the mix of different cultures united in the act of selling goods. How often do you see a Jamaican elder conversing with a Turkish elder about putting reggae reggae sauce on lahmacun? The people on the stalls are dream sellers who will make an ordinary tomato the 5 star meal that you’ve always wanted. And let’s not forget, everyone loves being chatted up by the cockney fruit sellers! I feel so special when they try to sell me their juicy melons and ripe bananas!&lt;/p&gt;
+
+&lt;p&gt;But of course I didn’t always like being there as a young teenager, mainly because of a harrowing incident involving a fishmonger, a fish and my face (don’t ask. I still scowl at them when I walk past that stall). And saturdays were always when the competitive mothers and old ladies came out with their shopping trolleys, followed by their less than eager children. Me and my mother would always stop at the Afro-Caribbean food stall where she would get into an argument with the owner; this always resulted in a battle of who can haggle the price of yam to the lowest pound.&lt;/p&gt;
+
+&lt;p&gt;Let’s skip to a few years later, when I decided to leave London on my university adventure to Bath. Not saying that it’s a tumbleweed city, but the markets definitely do not have the sounds of soca and calypso blazing throughout the day! I am a third year Drama student, and walking through Dalston market has allowed me to pick up many accents that I use to my pleasure at uni! In fact throughout the years I have accumulated insults in 25 different languages! I don’t get the chance to go home as often as I used to, and I often suffer withdrawal symptoms of home when i’m sat in the dreary confinements of a sweaty study room. This usually leads to me blasting the awesome music I hear in the market…VERY LOUDLY. I wish i could go around the study room acting like a fruit seller and getting people to buy some juicy melons off me, but I haven’t got the guts. Or the actual fruits…so that’s considered to be sexual harassment.&lt;/p&gt;
+
+&lt;p&gt;When I go back home I revel in the sounds of the market, I wink at bob the fruit seller as I buy some oranges off his stall, I let the stall owners teach me how to say ‘hello’ in their native language. Dalston market has inspired me to become culturally creative, I’ve used a lot of cultural inspirations in my work at university and it’s helped me to develop an afrocentric personality within a new surrounding. So the next time you just happen to be in Dalston, close your eyes and take it all in. I would say spin around too but you’ll probably bump into an old Nigerian lady who will barge you with her trolley and insult you in Yoruba.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 May 2013 21:07:53 +0100</pubDate>
+        <link>http://new.thebran.ch/articles/the-hills-are-alive-with-the-sound-of-dalston</link>
+        <guid isPermaLink="true">http://new.thebran.ch/articles/the-hills-are-alive-with-the-sound-of-dalston</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Be careful what you hear</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;One good thing about music: When it hits you, you feel no pain. &lt;cite&gt;Bob Marley&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;One of the things that sets apart, alters and affects my day is what I listen to throughout the time between I wake up and go to sleep. The first song I play in the morning can drastically change the outcome of my mood and workflow for the whole day. Sometimes I play a song which keeps me smiling all day and makes me productive, but sometimes when you wake up on the wrong side of the bed it’s all too easy to put on some Smiths or Morrissey, listen to his depressing tones, and just feel plain sorry for yourself.&lt;/p&gt;
+
+&lt;p&gt;I find that how creative and inspired I am about an activity or a project is usually down to the flow and mood of my music playing in the background. I’m a religious user of Spotify, and have playlists for every occasion. So how does music affect your mood? Music helps you become inspired, relaxed or even sleepy, but on the other hand it can also make you drive faster on the motorway, take a reckless decision or even give up altogether.&lt;/p&gt;
+
+&lt;p&gt;Songs can give you the get up and go you really need, and how many of you can say that you don’t listen to at least some form of music throughout the day. It’s universal and is a beautiful art form. Everyone has been in the situation where you have some sort of tedious task or project to complete which you truly have no drive for. I often find that playing songs in the background really puts me into work mode and time often flies by with me barely remembering what the problem or the task even was.&lt;/p&gt;
+
+&lt;p&gt;In conclusion, choose what music you play carefully, and try to pick a playlist which is relevant to the tasks throughout your day, and explore.&lt;/p&gt;
+
+&lt;p&gt;Always explore.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 May 2013 23:46:25 +0100</pubDate>
+        <link>http://new.thebran.ch/articles/be-careful-what-you-hear</link>
+        <guid isPermaLink="true">http://new.thebran.ch/articles/be-careful-what-you-hear</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Cloud Inspiration Service</title>
+        <description>&lt;p&gt;Those of you who haven’t looked out the window today, hands up.&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;em&gt;If you really raised your hand up, please do yourself a favour and go for a little walk. It’s unhealthy to shut yourself in.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Yeah, we all - those who kept their hands down, at least - have those absent-minded moments when we contemplate outside.&lt;/p&gt;
+
+&lt;p&gt;It might be a cliché, or even simply pretentious, but nothing keeps me more amazed and inspired than the weather. Weather seems almost humane. It has its own moods, quirks and habits. The only difference is how powerful it can be. Weather conveys a strong message. Think otherwise? Try being happy on a gloomy dark day.&lt;/p&gt;
+
+&lt;p&gt;I tend to find inspiration in &lt;em&gt;new&lt;/em&gt; things, be it a new framework for programming, a new recipe I can try out in kitchen or a new videogame (who doesn’t love them?). Unless you are browsing internet from a submarine or an underground base, I recommend you to take a look at your landscape. There’s always something new out there!&lt;/p&gt;
+
+&lt;p&gt;Clouds congesting; Trees bending under heavy, cold wind; Sun faintly shining behind a thick gray film; Blue sky tainted by a single smoke trail. There’s a reason painters like to go out with their tools of trade, you know.&lt;/p&gt;
+
+&lt;p&gt;Observing your local sky can yield several benefits to you and your mind.&lt;/p&gt;
+
+&lt;p&gt;First of all, it can keep you calm. Deadlines are creeping near? Well, nature doesn’t give a damn and actually, neither should you. Getting down to work with a proper attitude and keeping yourself from rushing things will generally give you the same result (work being finished before deadline), although you’ll be far less worn out afterwards.&lt;/p&gt;
+
+&lt;p&gt;Secondly, it helps your eyes. When using computers, we’re pretty much chaotic and our eyes jump from one point to another. Watching clouds can keep you both focused &lt;em&gt;and&lt;/em&gt; at ease, which calms you down even further.&lt;/p&gt;
+
+&lt;p&gt;Last but not least, &lt;em&gt;please go and find your own reasons&lt;/em&gt;. Inspiration surely will follow.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Apr 2013 19:22:27 +0100</pubDate>
+        <link>http://new.thebran.ch/articles/cloud-inspiration-service</link>
+        <guid isPermaLink="true">http://new.thebran.ch/articles/cloud-inspiration-service</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Life&#39;s a Game</title>
+        <description>&lt;p&gt;Imagine that life as it is - our working week, our hobbies, our wives, husbands, boyfriends and girlfriends; they’re all part of a metaphor of life, represented by a modern medium familiar to many: &lt;em&gt;videogames&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Your skills are your offensive: your spells, weaponry and ammunition.&lt;/p&gt;
+
+&lt;p&gt;Promotions and new jobs - that’s moving to the next level.&lt;/p&gt;
+
+&lt;p&gt;Lectures, talks, courses and conferences all add to your experience meter; and your portfolio reflects your current level.&lt;/p&gt;
+
+&lt;p&gt;I started treating life this way almost a year ago, and it’s had a pretty interesting effect.&lt;/p&gt;
+
+&lt;p&gt;Flash back to May 2012: as a full-time employee in the corporate video sector, I felt that I was using the same spell over and over again; stuck on a relatively easy level I didn’t have the motivation to complete and progress to the next level. I was lucky enough to boast a ton of spells in my arsenal: growing up an IT techie who dabbled in graphic design, video editing and 3D (weakened and unexercised skills as they were at the time), I was grateful for the long hours, hunched over my keyboard, teaching myself these skills.&lt;/p&gt;
+
+&lt;p&gt;Thing is: if you’ve ever played any game in your lifetime, you’ll know that in order to move to the next level, chances are you’ll face a beast. This beast towers over you, intimidating and terrifying; blocking your pathway into the next level and the rewards beyond. These encounters usually end in a dramatic showdown between the forces of good (you and your hopes, dreams and intents) and evil (your past). In the real world, this could be a particularly long stretch of overtime, an assessment or examination; or even an impossibly difficult client brief.&lt;/p&gt;
+
+&lt;p&gt;As a full-time and financially-secure employee, geared toward a frankly terrifying leap into the world of freelance, my beast took the form of a cloaked figure at the door.&lt;/p&gt;
+
+&lt;p&gt;Difference was, my beast was holding the door open for me, beckoning me inside.&lt;/p&gt;
+
+&lt;p&gt;I wasn’t entirely sure whether the beast was good or evil at the time; not sure whether it beckoned me closer in the unlikely twist in which the shrouded figure turned out to be an encouraging ally, holding open the gateway to a better life; or seemingly more likely the demonic figure, beckoning me into a world filled with unknown horrors - with no way to turn back and return to the comfort and security of the previous level.&lt;/p&gt;
+
+&lt;p&gt;I conquered my boss by going for broke and walking boldly through the door without a second look at the cloaked figure. I did everything I could in my first few months - calling favours, visiting agencies, frantic emailing and levelling up my offensive through attending talks, engaging with those in the know, and practicing my spells regularly.&lt;/p&gt;
+
+&lt;p&gt;With the one-year mark since I walked through that metaphorical gateway approaching rapidly, I’ve never been prouder to say that I’ve worked harder than I ever have in my life for clients I’d never dreamed I’d work for, met people I never thought I’d meet - and even encountered a few new bosses, too. But with those bosses have come bigger projects, better clients, and a whole new wealth of challenges: which have only increased my experience meter tenfold.&lt;/p&gt;
+
+&lt;p&gt;If you take anything away from this bizarre analysis, just remember that next time you reach your own boss; be it an exam, a job opportunity, a new client, or even a change of location - go for it.&lt;/p&gt;
+
+&lt;p&gt;After all, the hero always prevails at the end.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Apr 2013 12:09:59 +0100</pubDate>
+        <link>http://new.thebran.ch/articles/lifes-a-game</link>
+        <guid isPermaLink="true">http://new.thebran.ch/articles/lifes-a-game</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>The Why Test</title>
+        <description>&lt;p&gt;Clutter; filth; mess. Whatever you choose to call it, we all tend to make our area of work look busy with a myriad of unnecessary items, some of which we hardly use or knew existed.&lt;/p&gt;
+
+&lt;p&gt;Growing up we’re always told (mainly by our nagging parents) to keep our environment neat and tidy, and a quick search on the internet reveals those who do are calmer, stress free and have a sense of inner peace. Looks like your mum was onto something after all. But how do you know what and what not to get rid of? Three simple words: The Why Test.&lt;/p&gt;
+
+&lt;p&gt;Here’s how it works. Go to your messy desk if you’re not there already, look at each item and ask yourself two questions, ‘why do I need it?’ and ‘how often do I use it?’. If your answer to first question is ‘I don’t’, get rid of it, throw it away, give it to charity or burn it. If you have a good reason for keeping the item then jump to the next question.&lt;/p&gt;
+
+&lt;p&gt;How often do I use it? An everyday, weekly or fortnightly item should be kept somewhere easily accessible, on your table top or near your computer. If it’s an item you use every now and again, like a nail clipper, stick it somewhere within reach but out of the way, in a drawer or cupboard maybe. That’s pretty much it.&lt;/p&gt;
+
+&lt;p&gt;Now of course there are a few exceptions to these rules. Sentimental items such as pictures of partners and children, presents or the odd decorative item are fine as long as you don’t go overboard.&lt;/p&gt;
+
+&lt;p&gt;How often should this test be done? Everyday, once a week, once a month it doesn’t really matter. The objective of the WHY test is to be able to access the regularly used items as quickly as possible; keeping your environment neat is simply a by product. Once you’ve mastered the desk you can move on to other areas like your wardrobe, kitchen, even the desktop on your computer.&lt;/p&gt;
+
+&lt;p&gt;So a quick recap. If you don’t know why you need an item or you never use it, bin it. If you use it regularly, keep it close. If you use it every now and again, put it away. Got it?&lt;/p&gt;
+
+&lt;p&gt;Now go forth and tidy up.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Mar 2013 11:18:14 +0000</pubDate>
+        <link>http://new.thebran.ch/articles/the-why-test</link>
+        <guid isPermaLink="true">http://new.thebran.ch/articles/the-why-test</guid>
+        
+        
+        <category>blog</category>
         
       </item>
     

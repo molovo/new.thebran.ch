@@ -1,8 +1,3 @@
-.feature
-  height: 18em
-  background: url('') center / cover fixed no-repeat
-  display: none
-
 .intro
   padding: #{$baseline * 7} 0 #{$baseline * 4}
 
@@ -29,21 +24,48 @@ main
   .container
     +split(1,2.618,$bp_large)
 
-    aside
-      @media (min-width: $bp_large)
-        padding-right: $baseline
+  aside
+    @media (min-width: $bp_large)
+      padding-right: $baseline
 
-      p
-        border-top: .25em solid $blue
-        color: $blue
-        padding-top: $baseline
-        margin-top: -.25em
+    p
+      border-top: .25em solid $blue
+      color: $blue
+      padding-top: $baseline
+      margin-top: -.25em
 
-    article
-      @media (min-width: $bp_large)
-        padding-left: $baseline
+  article
+    @media (min-width: $bp_large)
+      padding-left: $baseline
 
-      img
-        $ratio: 2.618
-        width: calc(100% + #{100% / $ratio} + 2em)
-        margin-left: calc(#{100% / -$ratio} - 2em)
+  figure
+    $ratio: 2.618
+    margin-left: calc(#{100% / -$ratio} - 2em)
+    width: calc(100% + #{100% / $ratio} + 2em)
+
+    img
+      width: 100%
+
+    figcaption
+      color: $blue
+      font-family: $secondary
+      font-weight: 700
+
+  .video-wrapper
+    width: 100%
+    position: relative
+    margin-bottom: 1.5em
+
+    iframe
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      width: 100%;
+      height: 100%;
+
+    .dummy
+      width: 100%
+      height: 0
+      padding-bottom: #{(9 / 16) * 100%}

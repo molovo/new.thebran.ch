@@ -3,15 +3,12 @@ email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://new.thebran.ch" # the base hostname & protocol for your site
 
-# Build settings
+name: The Branch
 markdown: kramdown
-
-name: Molovo
-markdown: rdiscount
-rdiscount:
-  extensions: [smart, footnotes]
+kramdown:
+  parse_block_html: true
 permalink: /articles/:title
-exclude: ['.gitignore', 'thebranch.sublime-project', 'thebranch.sublime-workspace', '.sass_cache', 'node_modules', 'gulpfile.js', 'src', 'package.json', '.git', '.gitignore', 'temp']
+exclude: ['.gitignore', 'thebranch.sublime-project', 'thebranch.sublime-workspace', '/assets/.sass_cache', '/assets/node_modules', '/assets/gulpfile.js', '/assets/src', '/assets/package.json', '.git', '.gitignore', 'temp', '/assets/report', '/assets/reports']
 include: ['.htaccess']
 encoding: utf-8
 destination: 'public_html'

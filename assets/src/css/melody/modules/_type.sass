@@ -1,5 +1,5 @@
 html
-  font: 100%/#{$baseline} $primary
+  font: 300 100%/#{$baseline} $primary
 
 body
   line-height: $baseline
@@ -12,8 +12,11 @@ body
     @media (min-width: $bp_large)
       font-size: 1.3125em
 
-    // @media (min-width: #{$bp_large * 1.5})
-    //   font-size: 1.5em
+    @media (min-width: #{$bp_large * 1.5})
+      font-size: 1.5em
+
+    @media (min-width: #{$bp_large * 2.25})
+      font-size: 1.75em
 
 h1, h2, h3, h4, h5, h6
   font:
@@ -26,7 +29,7 @@ h1
   margin-bottom: #{(.5 / 1.5) * $baseline}
   font:
     family: $heading
-    weight: 500
+    weight: 300
   text-align: center
   letter-spacing: -.025em
 
@@ -124,23 +127,8 @@ blockquote
     cite
       font-size: .4444444444444444em
 
-figure
+img
   max-width: 100%
-
-  img
-    max-width: 100%
-
-  figcaption
-    font-style: italic
-    font-size: .75em
-
-  &.full-width
-    width: 100%
-
-    img
-      margin: 0 -1.5em 0
-      max-width: calc(100% + 3em)
-      width: calc(100% + 3em)     // Need both because of a webkit bug!
 
 .center
   text-align: center
